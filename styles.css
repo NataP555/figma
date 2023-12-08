@@ -1,7 +1,5 @@
 
-
 @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Anton&family=Gabarito&family=Kurale&family=Mohave:wght@300&family=Montserrat+Alternates:wght@700&family=Quicksand:wght@400;700&family=Raleway:wght@200;300&family=Roboto:wght@300&family=Ubuntu&family=Yesteryear&display=swap');
-
 
 *{
     padding:0;
@@ -185,4 +183,5 @@ a {
 
 .copyright{
     color:var(--neutral500);
+
 }
