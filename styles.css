@@ -17,6 +17,7 @@ body {
     --white: #FFFFFF;
 
     font-size: 18px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .root {
